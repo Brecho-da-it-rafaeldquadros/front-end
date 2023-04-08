@@ -30,7 +30,7 @@
 
 # Iniciando a API
 
-## Primeiro faça o clone do repositório da api: https://github.com/Brecho-da-it/back-end
+## Primeiro faça o clone do repositório da api: https://github.com/Brecho-da-it-rafaeldquadros/back-end
 
 ```
 
